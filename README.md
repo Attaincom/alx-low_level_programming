@@ -1,1 +1,1 @@
-More 0x06. C - More pointers, arrays and strings tasks
+0x0E. C - Structures, typedef
